@@ -1,0 +1,1 @@
+# laravel_naming_conventions
