@@ -1,5 +1,5 @@
 # laravel_naming_conventions
-
+----------------
 * Naming Controller :
     
     * Controllers should be in singular case, no spacing between words, and end with "Controller"
